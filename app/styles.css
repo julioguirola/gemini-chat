@@ -1,0 +1,3 @@
+main > span:nth-child(odd) {
+    text-align: right;
+}
